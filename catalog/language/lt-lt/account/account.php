@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // Heading
 $_['heading_title']       = 'Mano Paskyra';
 
@@ -6,21 +6,21 @@ $_['heading_title']       = 'Mano Paskyra';
 $_['text_account']        = 'Paskyra';
 $_['text_my_account']     = 'Mano paskyra';
 $_['text_my_orders']      = 'Mano užsąkymai';
-$_['text_my_affiliate']   = 'My Affiliate Account';
+$_['text_my_affiliate']   = 'Mano bendrovės paskyra';
 $_['text_my_newsletter']  = 'Naujienlaiškis';
 $_['text_edit']           = 'Keisti paskyros duomenis';
 $_['text_password']       = 'Kiesti slaptažodį';
-$_['text_address']        = 'Modify your address book entries';
-$_['text_credit_card']    = 'Manage Stored Credit Cards';
-$_['text_wishlist']       = 'Modify your wish list';
+$_['text_address']        = 'Kiesti savo adresų knygą';
+$_['text_credit_card']    = 'Kiesti išsaugotas kreditines korteles';
+$_['text_wishlist']       = 'Kiesti pageidavimų sąrašą';
 $_['text_order']          = 'Peržiūrėti užsakymų istoriją';
 $_['text_download']       = 'Parsisiuntimai';
-$_['text_reward']         = 'Your Reward Points';
-$_['text_return']         = 'View your return requests';
-$_['text_transaction']    = 'Your Transactions';
-$_['text_newsletter']     = 'Subscribe / unsubscribe to newsletter';
-$_['text_recurring']      = 'Recurring payments';
-$_['text_transactions']   = 'Transactions';
-$_['text_affiliate_add']  = 'Register for an affiliate account';
-$_['text_affiliate_edit'] = 'Edit your affiliate information';
+$_['text_reward']         = 'Jūsų taškai';
+$_['text_return']         = 'Peržiūrėti grąžinimus';
+$_['text_transaction']    = 'Jūsų mokėjimai';
+$_['text_newsletter']     = 'Sutinku / nesutinku gauti naujienlaiškį';
+$_['text_recurring']      = 'Pasikartojantys mokėjimai';
+$_['text_transactions']   = 'Mokėjimai';
+$_['text_affiliate_add']  = 'Registruoti bendrovės paskyrą';
+$_['text_affiliate_edit'] = 'Kiesti bendrovės paskyros informaciją';
 $_['text_tracking']       = 'Custom Affiliate Tracking Code';

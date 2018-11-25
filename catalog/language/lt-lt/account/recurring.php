@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']                        = 'Recurring Payments';
+$_['heading_title']                        = 'Pasikartojantys mokëjimai';
 
 // Text
-$_['text_account']                         = 'Account';
-$_['text_recurring']                       = 'Recurring Payment Information';
+$_['text_account']                         = 'Paskyra';
+$_['text_recurring']                       = 'Pasikrtojanèiø mokëjimø informacija';
 $_['text_recurring_detail']                = 'Recurring Payment Details';
 $_['text_order_recurring_id']              = 'Recurring ID:';
 $_['text_date_added']                      = 'Date Added:';
-$_['text_status']                          = 'Status:';
-$_['text_payment_method']                  = 'Payment Method:';
-$_['text_order_id']                        = 'Order ID:';
-$_['text_product']                         = 'Product:';
-$_['text_quantity']                        = 'Quantity:';
-$_['text_description']                     = 'Description';
-$_['text_reference']                       = 'Reference';
-$_['text_transaction']                     = 'Transactions';
+$_['text_status']                          = 'Statusas:';
+$_['text_payment_method']                  = 'Mokëjimo metodas:';
+$_['text_order_id']                        = 'Uþsakymo ID:';
+$_['text_product']                         = 'Produktas:';
+$_['text_quantity']                        = 'Kiekis:';
+$_['text_description']                     = 'Apraðymas';
+$_['text_reference']                       = 'Informacija';
+$_['text_transaction']                     = 'Mokëjimai';
 $_['text_status_1']                        = 'Active';
 $_['text_status_2']                        = 'Inactive';
 $_['text_status_3']                        = 'Cancelled';
@@ -37,11 +37,11 @@ $_['text_error']                           = 'The recurring order you requested 
 $_['text_cancelled']                       = 'Recurring payment has been cancelled';
 
 // Column
-$_['column_date_added']                    = 'Date Added';
-$_['column_type']                          = 'Type';
-$_['column_amount']                        = 'Amount';
-$_['column_status']                        = 'Status';
-$_['column_product']                       = 'Product';
+$_['column_date_added']                    = 'Data';
+$_['column_type']                          = 'Tipas';
+$_['column_amount']                        = 'Suma';
+$_['column_status']                        = 'Statusas';
+$_['column_product']                       = 'Produktas';
 $_['column_order_recurring_id']            = 'Recurring ID';
 
 // Error

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // Heading
 $_['heading_title']   = 'Pamiršote slaptažodį?';
 
@@ -6,7 +6,7 @@ $_['heading_title']   = 'Pamiršote slaptažodį?';
 $_['text_account']    = 'Paskyra';
 $_['text_forgotten']  = 'Pamiršote slaptažodį';
 $_['text_your_email'] = 'Jūsų elektroninis paštas';
-$_['text_email']      = 'Įrašykite tą elektroninį paštą, kurį priregistravote paskyroja.Nuorodą kuria pasikeisite slaptažodį gausite el. paštu.';
+$_['text_email']      = 'Įrašykite tą elektroninį paštą, kurį priregistravote paskyroje.Nuorodą kuria pasikeisite slaptažodį gausite el. paštu.';
 $_['text_success']    = 'Nuoroda buvo nusiūstą.';
 
 // Entry

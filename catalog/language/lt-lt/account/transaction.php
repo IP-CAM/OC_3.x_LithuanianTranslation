@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Your Transactions';
+$_['heading_title']      = 'Jûsø mokëjimai';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Amount (%s)';
+$_['column_date_added']  = 'Data';
+$_['column_description'] = 'Apraðymas';
+$_['column_amount']      = 'Kiekis (%s)';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_transaction']   = 'Your Transactions';
-$_['text_total']         = 'Your current balance is:';
-$_['text_empty']         = 'You do not have any transactions!';
+$_['text_account']       = 'Paskyra';
+$_['text_transaction']   = 'Jûsø mokëjimai';
+$_['text_total']         = 'Jûsø likutis yra:';
+$_['text_empty']         = 'Jûs neturite jokiø mokëjimø!';
