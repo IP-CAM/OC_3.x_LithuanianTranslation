@@ -23,4 +23,4 @@ $_['text_recurring']      = 'Pasikartojantys mokėjimai';
 $_['text_transactions']   = 'Mokėjimai';
 $_['text_affiliate_add']  = 'Registruoti bendrovės paskyrą';
 $_['text_affiliate_edit'] = 'Kiesti bendrovės paskyros informaciją';
-$_['text_tracking']       = 'Custom Affiliate Tracking Code';
+$_['text_tracking']       = 'Affiliate sekimo kodas';
