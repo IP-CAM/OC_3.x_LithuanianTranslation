@@ -1,7 +1,13 @@
 <?php
+
 // Text
-$_['text_success']     = 'Success: Your coupon discount has been applied!';
+
+$_['text_success']     = 'Jūs pritaikėte nuolaidą!';
+
+
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_coupon']     = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
+
+$_['error_permission'] = 'Neturite tam prieeigos!';
+
+$_['error_coupon']     = 'Nuolaidų kuponas yra išnaudotas arba nebegalioja';

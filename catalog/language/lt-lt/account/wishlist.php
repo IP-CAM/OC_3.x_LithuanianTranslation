@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Mano pageidavim� s�ra�as';
-
+$_['heading_title'] = 'Mano pageidavimų sąrašas';
+$_['cheading_title'] = 'Mano pageidavimų sąrašas';
 // Text
 $_['text_account']  = 'Paskyra';
-$_['text_instock']  = 'Sand�lyje';
-$_['text_wishlist'] = 'Pageidavim� s�ra�as (%s)';
-$_['text_login']    = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']  = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']   = 'Success: You have modified your wish list!';
-$_['text_empty']    = 'Your wish list is empty.';
+$_['text_instock']  = 'Sandėlyje';
+$_['text_wishlist'] = 'Pageidavimų sąrašas (%s)';
+$_['text_login']    = 'Turite <a href="%s">prisijungti</a> arba <a href="%s">užsiregistruoti</a>, kad pridėtumėte <a href="%s">%s</a> į savo <a href="%s">pageidavimų sąrašą</a>!';
+$_['text_success']  = 'Jūs pridėjote <a href="%s">%s</a> į savo <a href="%s">pageidavimų sąrašą</a>!';
+$_['text_remove']   = 'Jūs pakeitėte savo pageidavimų sąrašą!';
+$_['text_empty']    = 'Jūsų pageidavimų sąrašas yra tuščias.';
 
 // Column
 $_['column_image']  = 'Nuotrauka';
 $_['column_name']   = 'Produkto pavadinimas';
 $_['column_model']  = 'Modelis';
-$_['column_stock']  = 'Sandelyje';
+$_['column_stock']  = 'Sandėlyje';
 $_['column_price']  = 'Vieneto kaina';
 $_['column_action'] = 'Akcija';

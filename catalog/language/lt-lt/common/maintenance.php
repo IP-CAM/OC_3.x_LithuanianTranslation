@@ -1,7 +1,13 @@
 <?php
+
 // Heading
-$_['heading_title']    = 'Aptarnavimas';
+
+$_['heading_title']    = 'Tvarkoma';
+
+
 
 // Text
-$_['text_maintenance'] = 'Aptarnavimas';
-$_['text_message']     = '<h1 style="text-align:center;">We are currently performing some scheduled maintenance. <br/>We will be back as soon as possible. Please check back soon.</h1>';
+
+$_['text_maintenance'] = 'Tvarkoma';
+
+$_['text_message']     = '<h1 style="text-align:center;">Šiuo metu atliekame numatytą techninę priežiūrą. <br /> Mes grįšime kuo greičiau.</h1>';

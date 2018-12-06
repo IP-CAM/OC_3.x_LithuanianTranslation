@@ -1,3 +1,5 @@
 <?php
+
 // Text
-$_['text_all'] = 'Rodyti viską';
+
+$_['text_all'] = 'Rodyti visus';

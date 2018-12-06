@@ -1,4 +1,7 @@
 <?php
+
 // Text
-$_['text_title']       = 'Free Shipping';
-$_['text_description'] = 'Free Shipping';
+
+$_['text_title']       = 'Nemokamas siuntimas';
+
+$_['text_description'] = 'Nemokamas siuntimas';

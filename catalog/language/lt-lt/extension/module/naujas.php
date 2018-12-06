@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['text_naujas'] = 'LAAABAS';
+$_['text_naujas'] = '';

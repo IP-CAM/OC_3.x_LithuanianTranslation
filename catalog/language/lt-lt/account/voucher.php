@@ -1,32 +1,63 @@
 <?php
+
 // Heading
-$_['heading_title']    = 'Purchase a Gift Certificate';
+
+$_['heading_title']    = 'Dovanų kuponai';
+
+
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_voucher']     = 'Gift Certificate';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+
+$_['text_account']     = 'Paskyra';
+
+$_['text_voucher']     = 'Dovanų kuponai';
+
+$_['text_description'] = 'Šis dovana kuponas bus išsiųstas el. Paštu gavėjui, kai užsakymas bus apmokėtas.';
+
+$_['text_agree']       = 'Suprantu, kad dovanų kuponai yra negrąžinami.';
+
+$_['text_message']     = '<p>Dėkojame, kad įsigijote dovanų čekį! Apmokėjus užsakymą, jūsų dovanų čekio gavėjui bus išsiųstas el. Laiškas, kuriame bus išsami informacija, kaip naudoti dovanų kuponą.</p>';
+
+$_['text_for']         = '%s dovanų kuponas %s';
+
+
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name';
-$_['entry_to_email']   = 'Recipient\'s e-mail';
-$_['entry_from_name']  = 'Your Name';
-$_['entry_from_email'] = 'Your e-mail';
-$_['entry_theme']      = 'Gift Certificate Theme';
-$_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Amount';
+
+$_['entry_to_name']    = 'Gavėjo vardas';
+
+$_['entry_to_email']   = 'Gavejo el. paštas';
+
+$_['entry_from_name']  = 'Jūsų vardas';
+
+$_['entry_from_email'] = 'Jūsų el. paštas';
+
+$_['entry_theme']      = 'Dovanų kupono tema';
+
+$_['entry_message']    = 'Žinutė';
+
+$_['entry_amount']     = 'Kaina';
+
+
 
 // Help
-$_['help_message']     = 'Optional';
-$_['help_amount']      = 'Value must be between %s and %s';
+
+$_['help_message']     = 'Pasirinktinai';
+
+$_['help_amount']      = 'Kaina turi būti tarp %s ir %s';
+
+
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+
+$_['error_to_name']    = 'Gavėjo vardas turi būti nuo 1 iki 64 simbolių!';
+
+$_['error_from_name']  = 'Jūsų vardas turi būti nuo 1 iki 64 simbolių!';
+
+$_['error_email']      = 'El. Pašto adresas netinkamas!';
+
+$_['error_theme']      = 'Turite pasirinkti temą!';
+
+$_['error_amount']     = 'Kaina turi būti tarp %s ir %s!';
+
+$_['error_agree']      = 'Įspėjimas: turite sutikti, kad dovanų kuponai negrąžinami!';

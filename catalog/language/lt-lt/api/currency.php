@@ -1,7 +1,13 @@
 <?php
+
 // Text
-$_['text_success']     = 'Success: Your currency has been changed!';
+
+$_['text_success']     = 'Valiuta buvo sėkmingai pakeista!';
+
+
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_currency']   = 'Warning: Currency code is invalid!';
+
+$_['error_permission'] = 'Neturite tam prieeigos!';
+
+$_['error_currency']   = 'Valiutos kodas neteisingas!';

@@ -2,7 +2,7 @@
 
 // Heading
 
-$_['heading_title'] = 'Specialūs pasiūlymai';
+$_['onsale_title'] = 'Pasiūlymai';
 
 
 

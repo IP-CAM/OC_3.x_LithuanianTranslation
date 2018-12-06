@@ -1,4 +1,7 @@
 <?php
+
 // Text
-$_['text_title']       = 'Pickup';
-$_['text_description'] = 'Pickup From Store';
+
+$_['text_title']       = 'Atsiėmimas';
+
+$_['text_description'] = 'Atsiėmimas iš parduotuvės';

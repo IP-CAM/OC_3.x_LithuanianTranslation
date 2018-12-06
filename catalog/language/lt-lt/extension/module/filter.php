@@ -1,3 +1,5 @@
 <?php
+
 // Heading
-$_['heading_title'] = 'Refine Search';
+
+$_['heading_title'] = 'Tiksli paieška';
