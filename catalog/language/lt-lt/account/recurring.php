@@ -2,7 +2,7 @@
 
 // Heading
 
-$_['heading_title']                        = 'Pasikartojantys mokejimai';
+$_['heading_title']                        = 'Pasikartojantys mokėjimai';
 
 
 
@@ -10,9 +10,9 @@ $_['heading_title']                        = 'Pasikartojantys mokejimai';
 
 $_['text_account']                         = 'Paskyra';
 
-$_['text_recurring']                       = 'Pasikartojantys mokejimai';
+$_['text_recurring']                       = 'Pasikartojantys mokėjimai';
 
-$_['text_recurring_detail']                = 'Pasikrtojanciu mokejimu informacija';
+$_['text_recurring_detail']                = 'Pasikrtojanciu mokėjimų informacija';
 
 $_['text_order_recurring_id']              = 'Mokejimu ID:';
 
@@ -20,25 +20,25 @@ $_['text_date_added']                      = 'Sukurimo data:';
 
 $_['text_status']                          = 'Statusas:';
 
-$_['text_payment_method']                  = 'Mokejimo metodas:';
+$_['text_payment_method']                  = 'Mokėjimo metodas:';
 
-$_['text_order_id']                        = 'U�sakymo ID:';
+$_['text_order_id']                        = 'Užsakymo ID:';
 
 $_['text_product']                         = 'Produktas:';
 
 $_['text_quantity']                        = 'Kiekis:';
 
-$_['text_description']                     = 'Apra�ymas';
+$_['text_description']                     = 'Aprašymas';
 
 $_['text_reference']                       = 'Informacija';
 
-$_['text_transaction']                     = 'Mokejimai';
+$_['text_transaction']                     = 'Mokėjimai';
 
 $_['text_status_1']                        = 'Aktyvus';
 
 $_['text_status_2']                        = 'Neaktyvus';
 
-$_['text_status_3']                        = 'At�auktas';
+$_['text_status_3']                        = 'Atšauktas';
 
 $_['text_status_4']                        = 'Sulaikytas';
 
@@ -54,9 +54,9 @@ $_['text_transaction_outstanding_payment'] = 'Nesumoketa suma';
 
 $_['text_transaction_skipped']             = 'Mokejimas praleistas';
 
-$_['text_transaction_failed']              = 'Mokejimas nepavykes';
+$_['text_transaction_failed']              = 'Mokejimas nepavykęs';
 
-$_['text_transaction_cancelled']           = 'At�auktas';
+$_['text_transaction_cancelled']           = 'Atšauktas';
 
 $_['text_transaction_suspended']           = 'Sustabdytas';
 
@@ -68,9 +68,9 @@ $_['text_transaction_expired']             = 'Pasibaiges galiojimas';
 
 $_['text_empty']                           = 'Neturite pasikartojanciu mokejimu!';
 
-$_['text_error']                           = '�io u�sakymo nerandame!';
+$_['text_error']                           = 'Šio užsakymo nerandame!';
 
-$_['text_cancelled']                       = 'Pasikartojantis mokejimas buvo at�auktas';
+$_['text_cancelled']                       = 'Pasikartojantis mokejimas buvo atšauktas';
 
 
 
@@ -86,7 +86,7 @@ $_['column_status']                        = 'Statusas';
 
 $_['column_product']                       = 'Produktas';
 
-$_['column_order_recurring_id']            = 'Mokejimo ID';
+$_['column_order_recurring_id']            = 'Mokėjimo ID';
 
 
 
@@ -94,10 +94,10 @@ $_['column_order_recurring_id']            = 'Mokejimo ID';
 
 $_['error_not_cancelled']                  = 'Klaida: %s';
 
-$_['error_not_found']                      = 'At�aukimas negalimas';
+$_['error_not_found']                      = 'Atšaukimas negalimas';
 
 
 
 // Button
 
-$_['button_return']                        = 'Gri�ti';
+$_['button_return']                        = 'Grįžti';

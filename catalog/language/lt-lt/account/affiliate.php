@@ -8,62 +8,59 @@ $_['heading_title']             = 'Jūsų bendradarbiavimo paskyra';
 
 // Text
 
-$_['text_account']              = 'Paskyra';
+$_['text_account'] = 'Paskyra';
 
-$_['text_affiliate']            = 'Affiliate';
+$_['text_affiliate'] = 'Affiliate';
 
-$_['text_my_affiliate']         = 'My Affiliate Account';
+$_['text_my_affiliate'] = 'Mano partnerių sąskaita';
 
-$_['text_payment']              = 'Payment Information';
+$_['text_payment'] = 'Mokėjimo informacija';
 
-$_['text_cheque']               = 'Cheque';
+$_['text_cheque'] = 'Banko čekis';
 
-$_['text_paypal']               = 'PayPal';
+$_['text_paypal'] = 'PayPal';
 
-$_['text_bank']                 = 'Bank Transfer';
+$_['text_bank'] = "Banko pavedimas";
 
-$_['text_success']              = 'Success: Your account has been successfully updated.';
+$_['text_success'] = 'Jūsų paskyra buvo sėkmingai atnaujinta.';
 
-$_['text_agree']                = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
-
-
-
-// Entry
-
-$_['entry_company']             = 'Company';
-
-$_['entry_website']             = 'Web Site';
-
-$_['entry_tax']                 = 'Tax ID';
-
-$_['entry_payment']             = 'Payment Method';
-
-$_['entry_cheque']              = 'Cheque Payee Name';
-
-$_['entry_paypal']              = 'PayPal Email Account';
-
-$_['entry_bank_name']           = 'Bank Name';
-
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
-
-$_['entry_bank_swift_code']     = 'SWIFT Code';
-
-$_['entry_bank_account_name']   = 'Account Name';
-
-$_['entry_bank_account_number'] = 'Account Number';
+$_['text_agree'] = 'Aš perskaičiau ir sutinku su <a href="%s" class="agree"><b> %s </b></a>';
 
 
 
-// Error
+// Įrašas
 
-$_['error_agree']               = 'Warning: You must agree to the %s!';
+$_['entry_company'] = 'Įmonė';
 
-$_['error_cheque']              = 'Cheque Payee Name required!';
+$_['entry_website'] = 'Svetainė';
 
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
+$_['entry_tax'] = 'PVM kodas';
 
-$_['error_bank_account_name']   = 'Account Name required!';
+$_['entry_payment'] = 'Mokėjimo metodas';
 
-$_['error_bank_account_number'] = 'Account Number required!';
+$_['entry_cheque'] = 'Gavėjo vardas';
 
-$_['error_custom_field']        = '%s required!';
+$_['entry_paypal'] = 'PayPal el. pašto paskyra';
+
+$_['entry_bank_name'] = 'Banko pavadinimas';
+
+$_['entry_bank_branch_number'] = 'ABA / BSB numeris (skyriaus numeris)(nebūtinas)';
+
+$_['entry_bank_swift_code'] = 'SWIFT kodas';
+
+$_['entry_bank_account_name'] = 'Sąskaitos pavadinimas';
+
+$_['entry_bank_account_number'] = 'Sąskaitos numeris';
+
+// Klaida
+$_['error_agree'] = 'Turite sutikti su %s';
+
+$_['error_cheque'] = 'Gavėjo vardas neteisingas';
+
+$_['error_paypal'] = 'PayPal el. pašto adresas negaliojantis';
+
+$_['error_bank_account_name'] = 'reikalingas sąskaitos vardas';
+
+$_['error_bank_account_number'] = 'Reikalingas sąskaitos numeris';
+
+$_['error_custom_field'] = '%s būtinas';

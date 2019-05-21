@@ -2,6 +2,6 @@
 
 // Text
 
-$_['text_title']       = 'Flat Rate';
+$_['text_title']       = 'Lietuvos paštas';
 
-$_['text_description'] = 'Flat Shipping Rate';
+$_['text_description'] = 'Siuntimas Lietuvos Paštu';

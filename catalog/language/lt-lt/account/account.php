@@ -21,6 +21,6 @@ $_['text_transaction']    = 'Jūsų mokėjimai';
 $_['text_newsletter']     = 'Sutinku / nesutinku gauti naujienlaiškį';
 $_['text_recurring']      = 'Pasikartojantys mokėjimai';
 $_['text_transactions']   = 'Mokėjimai';
-$_['text_affiliate_add']  = 'Registruoti bendrovės paskyrą';
+$_['text_affiliate_add']  = 'Registruoti bendradarbiavimo paskyrą';
 $_['text_affiliate_edit'] = 'Keisti bendrovės paskyros informaciją';
 $_['text_tracking']       = 'Bendradarbiavimo sekimo kodas';

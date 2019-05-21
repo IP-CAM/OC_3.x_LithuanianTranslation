@@ -60,7 +60,7 @@ $_['button_wishlist']       = 'Pridėti į norų sąrašą';
 
 $_['button_checkout']       = 'Pirkti';
 
-$_['button_confirm']        = 'Patvirtinti užsąkymą';
+$_['button_confirm']        = 'Patvirtinti užsakymą';
 
 $_['button_coupon']         = 'Pridėti nuolaidų kuponą';
 

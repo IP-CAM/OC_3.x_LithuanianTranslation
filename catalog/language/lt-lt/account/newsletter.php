@@ -1,11 +1,21 @@
 <?php
+
 // Heading
-$_['heading_title']    = 'Newsletter Subscription';
+
+$_['heading_title']    = 'NaujienlaiÅ¡kis';
+
+
 
 // Text
+
 $_['text_account']     = 'Paskyra';
-$_['text_newsletter']  = 'Naujienlaiðkis';
-$_['text_success']     = 'Dëmesio: jûsø naujienlaiðkis buvo sëkmingai atnaujintas!';
+
+$_['text_newsletter']  = 'NaujienlaiÅ¡kis';
+
+$_['text_success']     = 'JÅ«sÅ³ naujienlaiÅ¡kis buvo sÄ—kmingai atnaujintas!';
+
+
 
 // Entry
-$_['entry_newsletter'] = 'Subscribe';
+
+$_['entry_newsletter'] = 'Prenumeruoti';

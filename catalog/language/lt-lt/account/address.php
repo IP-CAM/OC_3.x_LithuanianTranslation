@@ -8,9 +8,9 @@ $_['heading_title']      = 'Adresų knygelė';
 
 // Text
 
-$_['text_account']       = 'Anketa';
+$_['text_account']       = 'Paskyra';
 
-$_['text_address_book']  = 'Address Book Entries';
+$_['text_address_book']  = 'Adresų sąrašas';
 
 $_['text_address_add']   = 'Pridėti adresą';
 
@@ -70,5 +70,5 @@ $_['error_country']      = 'Prašome pasirinkti šalį!';
 
 $_['error_zone']         = 'Pasirinkite regioną';
 
-$_['error_custom_field'] = '%s required!';
+$_['error_custom_field'] = '%s reikalingas!';
 

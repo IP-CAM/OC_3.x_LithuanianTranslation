@@ -24,7 +24,7 @@ $_['text_special']      = 'Specialūs pasiūlymai';
 
 $_['text_account']      = 'Mano paskyra';
 
-$_['text_order']        = 'Užsąkymų istorija';
+$_['text_order']        = 'Užsakymų istorija';
 
 $_['text_wishlist']     = 'Norų sąrašas';
 
